@@ -10,8 +10,6 @@ import ContactRoutes from "./routes/ContactRoutes.js";
 import setupSocket from "./socket.js";
 import messagesRoutes from "./routes/MessagesRoutes.js";
 import channelRoutes from "./routes/ChannelRoutes.js";
-import './socket.js';
-import setupSocket from "./socket.js";
 
 
 
